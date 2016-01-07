@@ -1,0 +1,9 @@
+1. The binary tree lock implementation performs poorly when the number of thereads are increased in the powers of 2. 
+
+2. Because a thead acquires all the locks from its leaf to the root, it blocks all other threads from advancing to higher level locks.
+
+3. The spin wait times are higher and proportional to the time spent by a thread in the critical section.
+
+
+
+Note: I apologize for not being to generate graphs. I had issues ploting it via tool.

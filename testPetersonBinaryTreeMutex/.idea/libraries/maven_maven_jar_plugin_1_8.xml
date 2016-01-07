@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="maven:maven-jar-plugin:1.8" type="repository">
+    <properties maven-id="maven:maven-jar-plugin:1.8" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/maven-jar-plugin-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-jelly-tags-velocity-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/velocity-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/velocity-dep-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
